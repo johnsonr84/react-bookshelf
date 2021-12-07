@@ -32,7 +32,7 @@ React Bookshelf - A lightning fast react application were "you" the user get to 
 - [License](#License)
 - [Resources](#Resources)
 - [Contact](#Contact)
-- [Author](#Author)
+- [Author](#Built-By)
 
 ## Features
 
